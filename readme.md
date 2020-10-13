@@ -8,6 +8,6 @@ Ziel der Applikation ist es zu erkennen, ob das Gerät fällt oder in normaler B
 Um das Modell zu trainieren wurden eigene Aufzeichnungen erstellt und mit *falling* bzw *other* gelabeled. Diese Daten wurde verwendet um verschiedene Modelle zu trainieren und zu evaluieren.
 Das fertige Modell wurde mit der Hilfe des sklearn-porters für Java-Script exportiert und in die Web App eingebunden.
 
--  `/Notebooks`: Notebook welches alle verarbeitungsschritte enthält.
+-  `/Notebooks`: Notebook welches alle Verarbeitungsschritte enthält.
 - `/Model`: Das exportierte js Model.
 - `/Plots`: Interaktive Plots zur Datenexploration.
