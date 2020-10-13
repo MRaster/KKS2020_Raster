@@ -4,7 +4,7 @@ https://pi2gm.csb.app/
 Aufgezeichnet wurden die Daten mit folgender Web App:
 https://mbli7.csb.app/
 
-Ziel der Applikation ist es zu erkennen, ob das Gerät fällt oder in normaler Benutzung ist. Sobald das Gerät fällt wird dies als farbliches Signal auf den Bildschirm zurückgegeben.
+Ziel der Applikation ist es zu erkennen, ob das Gerät fällt oder in normaler Benutzung ist. Sobald das Gerät fällt wird dies als farbliches Signal auf dem Bildschirm angezeigt.
 Um das Modell zu trainieren wurden eigene Aufzeichnungen erstellt und mit *falling* bzw *other* gelabeled. Diese Daten wurde verwendet um verschiedene Modelle zu trainieren und zu evaluieren.
 Das fertige Modell wurde mit der Hilfe des sklearn-porters für Java-Script exportiert und in die Web App eingebunden.
 
